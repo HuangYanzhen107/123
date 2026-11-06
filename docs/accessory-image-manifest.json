@@ -1,0 +1,317 @@
+[
+  {
+    "path": "assets/reference-products/ari-hexagon-huggies-1.webp",
+    "width": 856,
+    "height": 1200,
+    "bytes": 11256,
+    "sha256": "5ee19a298be9aae79b5a5d7f3771133dfe5891cf16dc659aef4f8f75c48f7867"
+  },
+  {
+    "path": "assets/reference-products/ari-hexagon-huggies-2.webp",
+    "width": 858,
+    "height": 1200,
+    "bytes": 115544,
+    "sha256": "7f48dc767df364356f35e24756bb9d8e320e7f1930a25c717c89bc32bbd74299"
+  },
+  {
+    "path": "assets/reference-products/ashbury-sky-sunnies-moss-green-1.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 10324,
+    "sha256": "44137dd2037e8b7e146ddb19f97ca8b4f6b25ee889d45ae2471c20942a26b0b9"
+  },
+  {
+    "path": "assets/reference-products/ashbury-sky-sunnies-moss-green-2.webp",
+    "width": 858,
+    "height": 1200,
+    "bytes": 91820,
+    "sha256": "a6bf46ec0c3f4e8712a268d27b4abced1bbcc790547e8629390da855a08d5dfb"
+  },
+  {
+    "path": "assets/reference-products/black-gingham-ruffled-scrunchie-1.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 145838,
+    "sha256": "0936496dd867aa408c6f60eea97cef3a7db6e8a40b395b940359605365e894ab"
+  },
+  {
+    "path": "assets/reference-products/black-gingham-ruffled-scrunchie-2.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 61870,
+    "sha256": "a3c4573a45dbcac2f2443f2421cb2fc94aecdadb7b6af5293f9fdac4d6d42a64"
+  },
+  {
+    "path": "assets/reference-products/bookstack-bow-bag-charm-keychain-1.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 19608,
+    "sha256": "d6fdd72fe78d59a560d90f01fc2f85f57a3ca0e3d9894f61ae02dd2efbfa0de3"
+  },
+  {
+    "path": "assets/reference-products/bow-croissant-bag-charm-keychain-1.webp",
+    "width": 858,
+    "height": 1200,
+    "bytes": 20200,
+    "sha256": "5e596f5c0a27689d44e3d7e631a0832f79e1b11f2a354dd6a9403877ed162246"
+  },
+  {
+    "path": "assets/reference-products/bow-croissant-bag-charm-keychain-2.webp",
+    "width": 858,
+    "height": 1200,
+    "bytes": 115612,
+    "sha256": "d3facd5b426665178382327a829549afbdea6ae0811134b510d0ad63547d333d"
+  },
+  {
+    "path": "assets/reference-products/bow-hair-claw-brown-1.webp",
+    "width": 858,
+    "height": 1200,
+    "bytes": 78650,
+    "sha256": "199dc4762f0ff199a2fe1027dcbfb692aa8920fa91c3c416d8c5512c1dc9f0aa"
+  },
+  {
+    "path": "assets/reference-products/butter-bag-charm-keychain-1.webp",
+    "width": 858,
+    "height": 1200,
+    "bytes": 24934,
+    "sha256": "d8467fc9479cb2e27d1b7d630ef809faeb668a3057b8e3200750bbfd6b6b6287"
+  },
+  {
+    "path": "assets/reference-products/butter-bag-charm-keychain-2.webp",
+    "width": 858,
+    "height": 1200,
+    "bytes": 128458,
+    "sha256": "0b298283344e5ebd479a749ad8c379e2b432da9a2e46a06c17f5c3d8ebed1f5e"
+  },
+  {
+    "path": "assets/reference-products/cherries-enamel-keychain-1.webp",
+    "width": 858,
+    "height": 1200,
+    "bytes": 51110,
+    "sha256": "07929a45da9abaae5a40c9114ed79e1ee200a3c83002686bf1c996f027345db0"
+  },
+  {
+    "path": "assets/reference-products/cherries-enamel-keychain-2.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 69920,
+    "sha256": "359610904983e03bf13458109775751ec74090cc894bf6fd140a05aeb78646e5"
+  },
+  {
+    "path": "assets/reference-products/cherub-hoops-gold-1.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 16984,
+    "sha256": "63c1ce0988dfefa704c0e133d02c4a3b3bba93aab6d6c8e24eebc13d28f565bf"
+  },
+  {
+    "path": "assets/reference-products/cherub-hoops-gold-2.webp",
+    "width": 856,
+    "height": 1200,
+    "bytes": 125812,
+    "sha256": "1fe597dac9098561cd826b4b5785f234974519f77a902409f06b8b7df4dc6560"
+  },
+  {
+    "path": "assets/reference-products/chi-dog-icon-crew-sock-1.webp",
+    "width": 858,
+    "height": 1200,
+    "bytes": 115458,
+    "sha256": "eb4906708baca2dc2d36d46fa09d9b51580f324215a8ddb993f5dfdfb305dbe6"
+  },
+  {
+    "path": "assets/reference-products/chi-dog-icon-crew-sock-2.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 75118,
+    "sha256": "a9c06cf42c66e61a59d3bbd22ca9a07b8994229b5589b05ebf0d1ff3b95c8f1e"
+  },
+  {
+    "path": "assets/reference-products/chicago-icons-tote-1.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 30340,
+    "sha256": "f8dd60b1c71b2e53a8bd597f8b03ce9f7820ecc6999f0fee061eb8f10c66b4c8"
+  },
+  {
+    "path": "assets/reference-products/chicago-icons-tote-2.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 65006,
+    "sha256": "e4a4e6512f8d7d8cf6f83ca34cefe2565229e19ba77258e84d779d5669396196"
+  },
+  {
+    "path": "assets/reference-products/chicago-puff-baseball-cap-green-1.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 65670,
+    "sha256": "0130ae0583286699710dea2dbaf38ed51891f2defb672bb21cbefb0ebb09675a"
+  },
+  {
+    "path": "assets/reference-products/chicago-puff-baseball-cap-green-2.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 116044,
+    "sha256": "16326cf156a3a33569feb22810b43b387ef689d9c985597da828c4262cd7dbc0"
+  },
+  {
+    "path": "assets/reference-products/chicago-puff-baseball-cap-navy-1.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 49960,
+    "sha256": "49a09b2983e780994057c96260e93ba669d6a5bba257660105de3a5c45dde32a"
+  },
+  {
+    "path": "assets/reference-products/chicago-puff-baseball-cap-navy-2.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 59044,
+    "sha256": "ce66f054b9baf4436bb843fbc4452fc348a187e8bb51dd650ebd6642075cb064"
+  },
+  {
+    "path": "assets/reference-products/coffee-cup-bag-charm-keychain-1.webp",
+    "width": 858,
+    "height": 1200,
+    "bytes": 14170,
+    "sha256": "c269aa6370d4ee9944fc8cba0479c02947b25752a8c94a8cb7656e0ec6eba61a"
+  },
+  {
+    "path": "assets/reference-products/coffee-cup-bag-charm-keychain-2.webp",
+    "width": 856,
+    "height": 1200,
+    "bytes": 83114,
+    "sha256": "917d5a297433ec0a076c45e25d43ce38aabe997593f9f9b461947e0805fc9b1c"
+  },
+  {
+    "path": "assets/reference-products/florence-herringbone-necklace-1.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 12436,
+    "sha256": "b425c0ee600ac5e384efd1bac0c1251231cf2cc93acc6bdfd9c3e18c725b4c13"
+  },
+  {
+    "path": "assets/reference-products/florence-herringbone-necklace-2.webp",
+    "width": 858,
+    "height": 1200,
+    "bytes": 161672,
+    "sha256": "05f1b405d735a4c05148cde73a578d38fc1eeb536c6f10086cb6b848d9f46e2e"
+  },
+  {
+    "path": "assets/reference-products/fruit-basket-stud-set-1.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 26352,
+    "sha256": "3abde4ee3d6b6c11f0aebc5699624752c4b2f88d519269467c21dfe25a3f408d"
+  },
+  {
+    "path": "assets/reference-products/heart-bag-charm-keychain-brown-tort-1.webp",
+    "width": 858,
+    "height": 1200,
+    "bytes": 15966,
+    "sha256": "bd8d9beefd89af7890875d8d2118f2db40f774572953b42a6c3144bf274b28f7"
+  },
+  {
+    "path": "assets/reference-products/heart-bag-charm-keychain-brown-tort-2.webp",
+    "width": 858,
+    "height": 1200,
+    "bytes": 142934,
+    "sha256": "44c3888cbbf4b89c5e5b6b304737d18ac354ee3055d26d23cd4a85da82212fd0"
+  },
+  {
+    "path": "assets/reference-products/holden-sunnies-tort-brown-1.webp",
+    "width": 858,
+    "height": 1200,
+    "bytes": 13314,
+    "sha256": "95549b99f506e047aafce6082415687b072f7955070f6c936fa16dadab2d5a1d"
+  },
+  {
+    "path": "assets/reference-products/holden-sunnies-tort-brown-2.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 13728,
+    "sha256": "cbb7b040c20ecbd3b33a7af4686544153955360d4cf10db80d2633b182bf2363"
+  },
+  {
+    "path": "assets/reference-products/lennox-sunnies-gold-green-1.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 11282,
+    "sha256": "5d5b8545b0839e53d84988678712fc2b57318bd4f450c4f5715bffcd82b27bc1"
+  },
+  {
+    "path": "assets/reference-products/lennox-sunnies-gold-green-2.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 13182,
+    "sha256": "cc462bff34349113e197f3690fcaf477bb12d16fef8d86421b9bc0ae8a41248f"
+  },
+  {
+    "path": "assets/reference-products/material-girl-bracelet-1.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 17740,
+    "sha256": "836162c0b3d3d66a20bee01879fcc34cf65f24c30c3ee7b4fefe00b1375bcdef"
+  },
+  {
+    "path": "assets/reference-products/material-girl-bracelet-2.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 26110,
+    "sha256": "ba0bb1159077176e246295da8f2ac27b8906a080485a30a0a707564ba6c29f65"
+  },
+  {
+    "path": "assets/reference-products/new-york-city-icons-ruffle-sock-1.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 19382,
+    "sha256": "c380cd2bd580516592c92749afd37a7907053cb2c705106ffcdcb2eb22a74500"
+  },
+  {
+    "path": "assets/reference-products/new-york-city-icons-ruffle-sock-2.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 92614,
+    "sha256": "5414296b268835fd5d1f2f436ec33bc42a05a121a732c11fbfb87842d57d5333"
+  },
+  {
+    "path": "assets/reference-products/new-york-city-icons-tote-1.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 32314,
+    "sha256": "68625cd1f2f3830e66791bfe2ea6a54f057c8256313e748d9818d116b48a1357"
+  },
+  {
+    "path": "assets/reference-products/new-york-city-icons-tote-2.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 80340,
+    "sha256": "1d3fcb00d492b157ba8bbe2702cb963dcc0e0a3e1cf93d263af5933c744c2514"
+  },
+  {
+    "path": "assets/reference-products/pink-polka-dot-ruffled-scrunchie-1.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 111970,
+    "sha256": "ac697b458445c7e718bc1da23c22f01932b081a45a775c15b28c287a44e4c97c"
+  },
+  {
+    "path": "assets/reference-products/pink-polka-dot-ruffled-scrunchie-2.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 61870,
+    "sha256": "a3c4573a45dbcac2f2443f2421cb2fc94aecdadb7b6af5293f9fdac4d6d42a64"
+  },
+  {
+    "path": "assets/reference-products/stackable-mini-bracelets-1.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 47776,
+    "sha256": "edff08d6a62b395d195aa2dcc6fa3cc96f88b0016e62762036fc6f1c6551a66b"
+  },
+  {
+    "path": "assets/reference-products/stackable-mini-bracelets-2.webp",
+    "width": 857,
+    "height": 1200,
+    "bytes": 27522,
+    "sha256": "a099859b30947affd7d698dbc525bef805fde51115c78da8c9ea3cd46e3325ed"
+  }
+]

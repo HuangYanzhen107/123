@@ -1,0 +1,27 @@
+{
+  "categories": {
+    "bracelets": {
+      "pages": 41,
+      "rows": 201,
+      "models": 181
+    },
+    "earrings": {
+      "pages": 66,
+      "rows": 357,
+      "models": 182
+    },
+    "rings": {
+      "pages": 28,
+      "rows": 145,
+      "models": 106
+    }
+  },
+  "models": 469,
+  "rows": 703,
+  "photographs": 703,
+  "sourceHashes": {
+    "Bracelet catalog-Yiwu Oriole Jewelry(2026-03-29 04_04_10)(1).pdf": "28d0d203f9c733dc47753af3e75179b650e9e6e79db0bcc7b47686054ff97c00",
+    "Ring catalog-Yiwu Oriole Jewelry(2026-03-29 04_04_10)(1).pdf": "c6e6960db95249cc01c2607626a4b90936953f68e3cbbcbd641db9b685fd8f40",
+    "Earring catalog-Yiwu Oriole Jewelry(2026-03-30 00_00_24)(1).pdf": "6c75a8de5f3b34889025fcda587679d79fc728d5d8263bca262591045644fade"
+  }
+}

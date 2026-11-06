@@ -1,0 +1,15 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+# Local temp/build outputs
+node_modules/
+.env
+.env.*
+*.log
+__pycache__/
+*.pyc
+dist/
+.openai/
+.qa/
